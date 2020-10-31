@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Authenticate
+comment1.params=
+comment1.target=Authenticate()
+comment2.params=username\ password\ accessLevel
+comment2.target=boolean\ login(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=boolean\ logout()
+comment4.params=
+comment4.target=void\ makeFrame()
+comment5.params=
+comment5.target=boolean\ checkLogin()
+comment6.params=
+comment6.target=int\ checkAccess()
+numComments=7

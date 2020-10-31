@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyLithium
+comment0.text=\r\n\ The\ class\ BuyLithium\ offers\ a\ buyer\ the\ chance\ to\ enter\ a\ price\ and\ should\ show\ all\ the\ lithium\ that\ is\r\n\ on\ offer\ at\ the\ buy's\ price\ or\ any\ price\ lower\ than\ what\ the\ buyer\ has\ stated.\r\n\r\n\ @author\ (Wai\ Shan\ (Karen)\ Yip)\r\n\ @version\ (5/10/2019)\r\n
+comment1.params=
+comment1.target=BuyLithium()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BuyLithium\r\n
+comment2.params=buyerPrice
+comment2.target=void\ findBestPrice(double)
+comment2.text=\r\n\ findBestClass\ shows\ all\ the\ lithium\ grades\ with\ their\ prices\ as\ well\ as\ indicate\ to\ the\ buyer\ \r\n\ the\ number\ of\ lithium\ grades\ available.\r\n
+comment3.params=quality
+comment3.target=void\ findHighQuality(int)
+comment3.text=\r\n\ The\ buyer\ is\ able\ to\ enter\ a\ value\ for\ the\ quality\ they\ want\ to\ purchase.\r\n\ There\ is\ a\ message\ that\ indicates\ how\ many\ sources/\ grades\ of\ lithium\ were\ located.\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumPricing
+comment0.text=\r\n\ The\ class\ LithiumPricing\ is\ responsible\ for\ ensuring\ that\ each\ lithium\ sample\ is\ given\ a\ price\r\n\r\n\ @author\ (Wai\ Shan\ (Karen)\ Yip)\r\n\ @version\ (5/10/2019)\r\n
+comment1.params=
+comment1.target=LithiumPricing()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LithiumPricing\r\n
+comment2.params=l\ h
+comment2.target=void\ setPrice(java.util.ArrayList,\ java.util.ArrayList)
+comment2.text=\r\n\ Performs\ the\ calculations\ associated\ with\ ensuring\ that\ each\ sample\ of\ lithium\ in\ the\ tray\ is\ \r\n\ given\ a\ price\ accordingly.\r\n
+comment3.params=
+comment3.target=void\ printPrice()
+comment3.text=\r\n\ Prints\ all\ the\ prices\ of\ the\ lithium.\r\n\ Shows\ all\ the\ lithium\ found\ in\ the\ tray\ together\ with\ their\ prices.\r\n
+numComments=4

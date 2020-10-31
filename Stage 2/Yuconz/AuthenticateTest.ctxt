@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AuthenticateTest
+comment1.params=
+comment1.target=void\ testLoginWithCorrectInput()
+comment2.params=
+comment2.target=void\ testLoginWithIncorrectAccess()
+comment3.params=
+comment3.target=void\ testLoginWithIncorrectUsername()
+comment4.params=
+comment4.target=void\ testLoginWithIncorrectPassword()
+comment5.params=
+comment5.target=void\ testLogout()
+numComments=6

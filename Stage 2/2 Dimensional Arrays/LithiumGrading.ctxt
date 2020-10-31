@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LithiumGrading
+comment0.text=\r\n\ The\ class\ LithiumGrading\ makes\ use\ of\ the\ tray\ of\ lithium\ generated\ in\ the\ GenerateLithium\ class\ so\ that\r\n\ lithium\ can\ be\ graded\ as\ it\ is\ important\ for\ customers\ to\ buy\ highly\ graded\ lithium.\r\n\r\n\ @author\ (Wai\ Shan\ (Karen)\ Yip)\r\n\ @version\ (5/10/2019)\r\n
+comment1.params=
+comment1.target=LithiumGrading()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LithiumGrading\r\n
+comment2.params=tray
+comment2.target=void\ generateGrades(int[][])
+comment2.text=\r\n\ Accepts\ the\ lithium\ tray\ as\ a\ parameter\ and\ must\ look\ at\ each\ lithium\ grade\ and\ determine\r\n\ whether\ it\ is\ of\ high\ quality\ or\ not.\r\n\ Any\ lithium\ that\ is\ above\ a\ value\ of\ 25\ is\ considered\ to\ be\ a\ high\ grade.\r\n\ Aims\ to\ generate\ a\ list\ that\ contains\ all\ the\ low\ grade\ lithium\ and\ \r\n\ another\ list\ that\ contains\ the\ high\ graded\ lithium.\r\n
+comment3.params=
+comment3.target=void\ sortingLithium()
+comment3.text=\r\n\ Makes\ use\ of\ the\ bubble\ sort\ to\ sort\ the\ low\ graded\ as\ well\ as\ the\ high\ graded\ lithium\r\n\ in\ ascending\ order\r\n
+numComments=4
