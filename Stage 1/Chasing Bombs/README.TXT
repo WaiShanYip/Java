@@ -1,5 +1,5 @@
 PROJECT TITLE: Chasing Bombs
-PURPOSE OF PROJECT: Stage 1 of University, Introduction to Object-Oriented Programming ~ Assignment 2
+PURPOSE OF PROJECT: Stage 1 of University, Further Object-Oriented Programming ~ Assignment 2
 VERSION or DATE: 04/03/2019
 AUTHOR: Wai Shan (Karen) Yip
 EXPLANATION: 
